@@ -21,7 +21,10 @@ def insertion_sort_second_approach(array):
             j -= 1
         array[j + 1] = current_index
 
+<<<<<<< HEAD:insertion_sort.py
 
 if __name__ == '__main__':
     input_test = [12, 11, 13, 5, 6]
     insertion_sort_second_approach(input_test)
+=======
+>>>>>>> 63206c233c599edcf9e30a7334307ea849c170c9:code/insertion_sort.py
